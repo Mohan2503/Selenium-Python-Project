@@ -1,6 +1,6 @@
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support.ui import WebDriverWait
-from Utilities.Logging import Logger
+# from Utilities.Logging import Logger
 from selenium.webdriver.common.action_chains import ActionChains
 from Locators.locators import ElementLocators
 from Utilities.Config_reader import read_config_data
